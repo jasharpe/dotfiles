@@ -1,6 +1,7 @@
 Where to find inconsolata: http://www.levien.com/type/myfonts/inconsolata.html
 
 Where to find moria: http://www.vim.org/scripts/script.php?script_id=1464
+Just put it in "~/.vim/colors" or in "<your vim directory>\vimfiles\colors" on Windows.
 
 Credits:
 
